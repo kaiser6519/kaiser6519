@@ -35,13 +35,32 @@ Here are some ideas to get you started:
 
 ##샵과 제목 사이에 한칸을 띄워야 적용된다
 
-
+<br><br>
 줄바꾸기를 할때는
 엔터(enter) 2번
 
 해야 한다
-
+<br><br>
 # 인덱싱(순서가 있는 목록)
 1. 기존에 작성
 2. 하는 방법과
 3. 동일합니다
+
+<br><br>
+# 구분선 추가 방법
+---
+----
+----- -
+***
+****
+**** ** **
+<br><br>
+
+# 코드
+
+밑의 줄은 코드이다
+
+    private String email;
+    private String number;
+
+코드 끝
