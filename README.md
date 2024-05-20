@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <br><br><br><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> &nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTMLt&logoColor=white"/>
+<br>
 
 # 제목
 ## 제목
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 #### 제목
 ##### 제목
 ###### 제목
+
+##샵과 제목 사이에 한칸을 띄워야 적용된다
